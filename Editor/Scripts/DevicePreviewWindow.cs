@@ -58,7 +58,7 @@ public class DevicePreviewWindow : EditorWindow
     private bool _isCapturing;
     private EditorApplication.CallbackFunction _updateCapture;
 
-    [MenuItem("Tools/JH Tools/Each Device Check UI Preview #&P")]
+    [MenuItem("Tools/ActionFit/Device Preview #&P", false, 20)]
     static void Open() => GetWindow<DevicePreviewWindow>("Each Device Check UI Preview");
 
     // ─── Lifecycle ─────────────────────────────────────────────────────────────

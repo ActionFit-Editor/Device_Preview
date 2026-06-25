@@ -7,7 +7,7 @@
 ```json
 {
   "dependencies": {
-    "com.actionfit.devicepreview": "https://github.com/ActionFit-Editor/Device_Preview.git#1.0.0"
+    "com.actionfit.devicepreview": "https://github.com/ActionFit-Editor/Device_Preview.git#1.0.1"
   }
 }
 ```
