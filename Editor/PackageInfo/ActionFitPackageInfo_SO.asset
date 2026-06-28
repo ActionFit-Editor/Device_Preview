@@ -15,11 +15,10 @@ MonoBehaviour:
   _packageId: com.actionfit.devicepreview
   _displayName: Device Preview
   _repoName: Device_Preview
-  _owner: 
+  _owner: "\uC1A1\uC81C\uC6B0"
   _status: verified
   _description: "\uC5EC\uB7EC \uB514\uBC14\uC774\uC2A4 \uD574\uC0C1\uB3C4/\uC138\uC774\uD504\uC5D0\uC5B4\uB9AC\uC5B4
     \uAE30\uC900\uC73C\uB85C \uD604\uC7AC UI\uB97C \uD55C \uBC88\uC5D0 \uBBF8\uB9AC\uBCF4\uB294
     \uC5D0\uB514\uD130 \uC708\uB3C4\uC6B0. \uB2E8\uCD95\uD0A4 Shift+Alt+P."
-  _releaseNote: "package_catalog/package_versions \uCE74\uD0C8\uB85C\uADF8 \uB9C8\uC774\uADF8\uB808\uC774\uC158\uC744
-    \uC704\uD55C \uC7AC\uBC30\uD3EC \uBC84\uC804"
+  _releaseNote: "- 패키지 루트에 `AI_GUIDE.md`를 추가해, 다른 프로젝트에서도 소스 프로젝트의 `Docs/AI` 없이 이 패키지의 AI 작업 규칙을 읽을 수 있게 했습니다.\n- 가이드에 패키지 식별 정보, 필수 확인 문서, 수정 규칙, 릴리즈 노트 규칙, 수동 배포 주의사항을 기록했습니다.\n- `PACKAGE_AI_GUIDE_ROUTER.md`에서 이 패키지를 찾을 수 있도록 `Requested router entry` 기준의 라우터 등록 정보를 포함했습니다.\n- 이번 변경은 문서 배포용 패키지 콘텐츠 갱신이며, 런타임/에디터 동작은 변경되지 않습니다.\n- 주의: 기존 배포 태그가 있는 버전은 재사용하지 말고, 현재 후보 버전으로 배포해야 합니다."
   _dependenciesOverride: 

@@ -1,9 +1,13 @@
 {
-  "name": "com.actionfit.devicepreview",
-  "version": "1.0.2",
-  "displayName": "Device Preview",
-  "description": "여러 디바이스 해상도/세이프에어리어 기준으로 현재 UI를 한 번에 미리보는 에디터 윈도우. 단축키 Shift+Alt+P.",
-  "unity": "6000.2",
-  "author": { "name": "ActionFit" },
-  "dependencies": {}
+    "name":  "com.actionfit.devicepreview",
+    "version":  "1.0.3",
+    "displayName":  "Device Preview",
+    "description":  "여러 디바이스 해상도/세이프에어리어 기준으로 현재 UI를 한 번에 미리보는 에디터 윈도우. 단축키 Shift+Alt+P.",
+    "unity":  "6000.2",
+    "author":  {
+                   "name":  "ActionFit"
+               },
+    "dependencies":  {
+
+                     }
 }
